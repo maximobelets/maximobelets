@@ -1,4 +1,4 @@
-### Hi there, I', Max 👋
+### Hi there, I'm Max 👋
 
 ## I like code, skate, coffee
 - 👨🏻‍💻 I’m currently working on my React components library and my Telegram Bot
