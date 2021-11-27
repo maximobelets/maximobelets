@@ -2,7 +2,7 @@
 
 ## I like code, skate, coffee
 - 👨🏻‍💻 I’m currently working on my React components library and my Telegram Bot
-- 🤓 I’m currently learning Node.js
+- 🤓 I’m learning Node.js
 - 💬 Ask me about my projects
 - 📫 How to reach me: maximobelets@gmail.com
 - 📸 [Instagram](https://www.instagram.com/maximobelets)
