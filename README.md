@@ -5,7 +5,7 @@
 - 🤓 I’m currently learning Node.js
 - 💬 Ask me about my projects
 - 📫 How to reach me: maximobelets@gmail.com
-- 📸 [Instagram](https://www.instagram.com/maximobelets){:target="_blank"}
+- 📸 [Instagram](https://www.instagram.com/maximobelets/?target=_blank))
 
 <!--
 **maximobelets/maximobelets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
